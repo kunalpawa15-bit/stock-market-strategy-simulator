@@ -1,0 +1,8 @@
+{
+  "name": "stock-market-simulator",
+  "version": "0.1.0",
+  "dependencies": [
+    "cpr",
+    "nlohmann-json"
+  ]
+}

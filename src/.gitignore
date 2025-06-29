@@ -1,0 +1,10 @@
+/build/
+/.vscode/
+/.vcpkg/
+/CMakeFiles/
+CMakeCache.txt
+*.exe
+*.user
+*.obj
+*.log
+*.csv
